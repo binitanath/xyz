@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/bini.xyz/.vs/bini.xyz
+/bini.xyz/bini.xyz/bin/Debug/netcoreapp3.1
+/bini.xyz/bini.xyz/obj
